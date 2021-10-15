@@ -1,0 +1,47 @@
+body{
+  background: black;
+  text-align: center;
+}
+.titulo{
+  font-size: 60px;
+  font-weight: 900;
+  line-height: 1;
+  color: white;
+  margin-bottom: 16px;
+}
+.linea{
+  border: 1px solid white;
+}
+.descripcion{
+  color: white;
+  text-font: sans-serif;
+  font-size: 20px;
+}
+.boton1{
+  background: #10ffff;
+  border: 5px solid white;
+  border-radius: 15px;
+  font-size: 25px;
+  color: white;
+}
+.boton2{
+  background: red;
+  border: 5px solid white;
+  border-radius: 15px;
+  font-size: 25px;
+  color: white;
+}
+h1{
+  color: gray;
+}
+.fondo{
+  background: gray;
+  border: 5px solid white;
+  border-radius: 15px;
+}
+h2{
+  color: white;
+}
+h3{
+  color: black;
+}
